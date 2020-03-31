@@ -1,4 +1,5 @@
 /*
+	Singly Linked List [Tek Yönlü Bağlı Listeler]
 	Yasir Seyrek
 	Github: https://github.com/yasirsey
 	Medium: https://medium.com/@yasirsey
